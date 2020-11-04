@@ -10,7 +10,7 @@
 ### Connect with me:
 
 <img align="left" alt="Ripudaman | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /><a href="https://www.linkedin.com/in/ripu-daman-88a609159/">Linkedin</a>
-<img align="left" alt="Ripudaman | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /><a href="  https://www.instagram.com/4742ripu/" diplay="block">Instagram</a>
+<img align="left" alt="Ripudaman | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /><a href="  https://www.instagram.com/4742ripu/"> diplay="block">Instagram</a>
 <br />
 
 ### Languages and Tools:
