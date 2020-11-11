@@ -42,11 +42,11 @@
     <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ripu2&&hide=Jupyter Notebook &layout=compact" />
 
 </details> -->
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=ripu2.visitor_count)
 
 
-[instagram]: https://www.instagram.com/ripu2
+
+[instagram]: https://www.instagram.com/4742ripu
 [linkedin]: https://www.linkedin.com/in/ripu-daman-88a609159/
 
-
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=ripu2.visitor_count)
 
