@@ -41,7 +41,7 @@
    <br>
     <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ripu2&&hide=Jupyter Notebook &layout=compact" />
 
-</details> -->
+</details> 
 
 
 
