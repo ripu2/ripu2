@@ -34,18 +34,15 @@
 
 <br /> <br />
 
-<details>
 <summary>GitHub Stats</summary>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rip2&layout=compact)](https://github.com/ripu2/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ripu2&layout=compact)](https://github.com/ripu2/github-readme-stats)
 
   <!-- <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ripu2&show_icons=true" />
    <br>
     <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ripu2&&hide=Jupyter Notebook &layout=compact" /> -->
-
-</details>
 
 [instagram]: https://www.instagram.com/4742ripu
 [linkedin]: https://www.linkedin.com/in/ripu-daman-88a609159/
