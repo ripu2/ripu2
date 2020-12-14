@@ -1,10 +1,10 @@
-### Hi there, If you're here, you know who I'm 😎
+### If you're here, you know who I'm 😎
 
 ## Engineer to be!!
 
 - 🔭 Using VS Code and developing fullStack products
 - 🌱 I’m currently learning everything 🤣
-- 👯 Looking for a fullStack developer job role
+- 👯 Looking for a fullStack developer job role 🥷🏻
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
 ### Connect with me:
