@@ -1,17 +1,18 @@
-### Hi there, I'm Ripudaman! 👋
+### Hi there, If you're here, you know who I'm 😎
 
 ## Engineer to be!!
 
-- 🔭 Using VS Code
+- 🔭 Using VS Code and developing fullStack products
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other developers
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 👯 Looking for a fullStack developer job role
+- 🥅 2021 Goals: Contribute more to Open Source projects
 
 ### Connect with me:
 
-[<img align="left" alt="ripu2 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="ripu2 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
+<p><a href="https://github.com/ripu2" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
+<a href="https://www.linkedin.com/in/ripu-daman-88a609159/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+<a href="https://www.instagram.com/4742ripu" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram" /></a>
+</p>
 <br />
 
 ### Languages and Technologies
