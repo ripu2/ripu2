@@ -1,6 +1,6 @@
-### If you're here, you know who I'm <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" marginTop="30"/>
+### If you're here, you know who I'm <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" style={{marginTop: "30}}/>
 
-## Full stack developer, React| React Native !!
+## Full stack developer, React | React Native !!
 
 - 🔭 Using VS Code and developing fullStack products
 - 🌱 I’m currently learning everything 🤣
