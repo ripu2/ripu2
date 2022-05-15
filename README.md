@@ -1,6 +1,6 @@
 ### If you're here, you know who I'm 😎
 
-## Engineer to be!!
+## Full stack developer, React| React Native !!
 
 - 🔭 Using VS Code and developing fullStack products
 - 🌱 I’m currently learning everything 🤣
