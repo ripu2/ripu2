@@ -25,7 +25,6 @@
 <img align="left" alt="Angular" width="30px" src="https://angular.io/assets/images/logos/angular/angular.png" />
 <img align="left" alt="Vue.js" width="30px" src="https://miro.medium.com/max/800/1*Pk2mZo1cBqfVqQi-mtAkuA.png" />
 <img align="left" alt="Mongo" width="30px" src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png"/>
-<img align="left" alt="Mongo" width="30px" src="https://img.icons8.com/color/100/000000/mongodb.png"/>
 <img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="Sass" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="Heroku" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/heroku.svg" />
