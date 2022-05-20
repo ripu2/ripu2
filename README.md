@@ -49,3 +49,7 @@
 [linkedin]: https://www.linkedin.com/in/ripu-daman-88a609159/
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=ripu2.visitor_count)
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
