@@ -41,9 +41,9 @@
 
 <summary>GitHub Stats</summary>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ripu2&hide=css,html,jupyter%20notebook,Java,SCSS)](https://github.com/ripu2/github-readme-stats)
-
 [![activity graph](https://activity-graph.herokuapp.com/graph?username=Ripudaman4742&custom_title=Ripu's%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ripu2&hide=css,html,jupyter%20notebook,Java,SCSS)](https://github.com/ripu2/github-readme-stats)
 
 [instagram]: https://www.instagram.com/4742ripu
 [linkedin]: https://www.linkedin.com/in/ripu-daman-88a609159/
