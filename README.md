@@ -20,19 +20,35 @@
 <!-- Technologies & Tools -->
 <h2 align="center">🛠 Tech Stack & Tools</h2>
 
+<!-- Languages Section -->
+<h3 align="center">Languages</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="TypeScript" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/java.svg" alt="Java" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C++" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/go-6.svg" alt="Go" width="40" height="40"/>
+</p>
+
+<!-- Frameworks Section -->
+<h3 align="center">Frameworks & Libraries</h3>
+<p align="center">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Node.js" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" alt="Express.js" width="40" height="40"/>
   <img src="https://angular.io/assets/images/logos/angular/angular.png" alt="Angular" width="40" height="40"/>
   <img src="https://miro.medium.com/max/800/1*Pk2mZo1cBqfVqQi-mtAkuA.png" alt="Vue.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" alt="Redux" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/graphql.svg" alt="GraphQL" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="Next.js" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" alt="Redux" width="40" height="40"/>
   <img src="https://avatars.githubusercontent.com/u/40409100?s=200&v=4" alt="Cube.js" width="40" height="40"/>
+</p>
+
+<!-- Tools Section -->
+<h3 align="center">Tools & Platforms</h3>
+<p align="center">
+  <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="Docker" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" alt="Firebase" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/aws-logo.svg" alt="AWS" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/mysql.svg" alt="SQL" width="40" height="40"/>
