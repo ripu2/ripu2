@@ -40,8 +40,6 @@
   <img src="https://cdn.worldvectorlogo.com/logos/elastic.svg" alt="Elasticsearch" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/neo4j.svg" alt="Neo4j" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/twilio.svg" alt="Twilio" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="Sass" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="GitHub" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" width="40" height="40"/>
 </p>
@@ -52,8 +50,8 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ripu2&show_icons=true&theme=radical" alt="ripu2's GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ripu2&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ripu2&show_icons=true&theme=radical&hide=issues&count_private=true" alt="ripu2's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ripu2&layout=compact&theme=radical&hide=html,css,jupyter%20notebook" alt="Top Languages"/>
 </p>
 
 ---
