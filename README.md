@@ -28,7 +28,7 @@
   <img src="https://cdn.worldvectorlogo.com/logos/java.svg" alt="Java" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C++" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/go-6.svg" alt="Go" width="40" height="40"/>
+  <img src="https://worldvectorlogo.com/logo/go-logo-1" alt="Go" width="40" height="40"/>
 </p>
 
 <!-- Frameworks Section -->
