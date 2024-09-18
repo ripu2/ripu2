@@ -28,7 +28,7 @@
   <img src="https://cdn.worldvectorlogo.com/logos/java.svg" alt="Java" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C++" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" width="40" height="40"/>
-  <img src="https://worldvectorlogo.com/logo/go-logo-1" alt="Go" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/go-logo-1.svg" alt="Go" width="40" height="40"/>
 </p>
 
 <!-- Frameworks Section -->
@@ -54,7 +54,7 @@
   <img src="https://cdn.worldvectorlogo.com/logos/aws-logo.svg" alt="AWS" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/mysql.svg" alt="SQL" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/elastic.svg" alt="Elasticsearch" width="60" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/elasticsearch.svg" alt="Elasticsearch" width="60" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/neo4j.svg" alt="Neo4j" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/twilio.svg" alt="Twilio" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/github-icon.svg" alt="GitHub" width="40" height="40"/>
