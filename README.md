@@ -29,6 +29,7 @@
   <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C++" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/go-logo-1.svg" alt="Go" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/solidity.svg" alt="Go" width="40" height="40"/>
 </p>
 
 <!-- Frameworks Section -->
