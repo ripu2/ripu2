@@ -1,55 +1,74 @@
-### If you're here, you know who I'm <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" style="margin-top: 30px"/>
-
-## Full stack developer, React | React Native !!
-
-- 🔭 Using VS Code and developing fullStack products
-- 🌱 I’m currently learning everything 🤣
-- 👯 Looking for a fullStack developer job role 🥷🏻
-- 🥅 2021 Goals: Contribute more to Open Source projects
-
-### Connect with me:
-
-<p><a href="https://github.com/ripu2" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
-<a href="https://www.linkedin.com/in/ripu-daman-88a609159/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-<a href="https://www.instagram.com/4742ripu" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram" /></a>
-</p>
-<br />
-
-### Languages and Technologies
-
-<img align="left" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="JavaScript" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Node.js" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="Express.js" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" />
-<img align="left" alt="Angular" width="30px" src="https://angular.io/assets/images/logos/angular/angular.png" />
-<img align="left" alt="Vue.js" width="30px" src="https://miro.medium.com/max/800/1*Pk2mZo1cBqfVqQi-mtAkuA.png" />
-<img align="left" alt="Mongo" width="30px" src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png"/>
-<img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="Sass" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="Heroku" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/heroku.svg" />
-<img align="left" alt="Solidity" width="30px" src="https://cdn.worldvectorlogo.com/logos/solidity.svg" />
-<img align="left" alt="React native" width="30px" src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" />
-<img align="left" alt="React native" width="30px" src="https://cdn.worldvectorlogo.com/logos/typescript.svg" />
-<img align="left" alt="React native" width="30px" src="https://cdn.worldvectorlogo.com/logos/graphql.svg" />
-<img align="left" alt="React native" width="30px" src="https://cdn.worldvectorlogo.com/logos/next-js.svg" />
-<img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
-<br /> <br />
-
-<summary>GitHub Stats</summary>
-
-[![activity graph](https://activity-graph.herokuapp.com/graph?username=Ripudaman4742&custom_title=Ripu's%20activity%20graph&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ripu2&hide=css,html,jupyter%20notebook,Java,SCSS)](https://github.com/ripu2/github-readme-stats)
-
-[instagram]: https://www.instagram.com/4742ripu
-[linkedin]: https://www.linkedin.com/in/ripu-daman-88a609159/
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=ripu2.visitor_count)
+<!-- Header -->
+<h1 align="center">Hi there 👋, I'm Ripu Daman</h1>
+<h3 align="center">A Passionate Full Stack Developer | Creating Impactful & Scalable Web Solutions</h3>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+  <img src="https://komarev.com/ghpvc/?username=ripu2&label=Profile%20views&color=blue&style=flat-square" alt="ripu2" />
+</p>
+
+<!-- Introduction -->
+<p align="center">
+  With a strong passion for technology and a deep interest in building scalable and high-performance web applications, I specialize in <strong>Full Stack Development</strong>. I have a diverse skill set, ranging from creating interactive frontend interfaces to architecting robust backends. My journey revolves around crafting clean, maintainable code while ensuring a seamless user experience.
+</p>
+
+<p align="center">
+  Whether it's optimizing performance, scaling systems, or exploring new frameworks, I'm always ready to embrace the next challenge. Let's collaborate and create innovative solutions together!
+</p>
+
+---
+
+<!-- Technologies & Tools -->
+<h2 align="center">🛠 Tech Stack & Tools</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="TypeScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Node.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" alt="Express.js" width="40" height="40"/>
+  <img src="https://angular.io/assets/images/logos/angular/angular.png" alt="Angular" width="40" height="40"/>
+  <img src="https://miro.medium.com/max/800/1*Pk2mZo1cBqfVqQi-mtAkuA.png" alt="Vue.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" alt="Redux" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/graphql.svg" alt="GraphQL" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="Next.js" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="Docker" width="40" height="40"/>
+  <img src="https://avatars.githubusercontent.com/u/40409100?s=200&v=4" alt="Cube.js" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" alt="Firebase" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/aws-logo.svg" alt="AWS" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/mysql.svg" alt="SQL" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="PostgreSQL" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/elastic.svg" alt="Elasticsearch" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/neo4j.svg" alt="Neo4j" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/twilio.svg" alt="Twilio" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="Sass" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="GitHub" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" width="40" height="40"/>
+</p>
+
+---
+
+<!-- GitHub Stats -->
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ripu2&show_icons=true&theme=radical" alt="ripu2's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ripu2&layout=compact&theme=radical" alt="Top Languages"/>
+</p>
+
+---
+
+<!-- Connect with Me -->
+<h2 align="center">📫 Connect with Me</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ripu-daman-88a609159/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/whoRipu/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://github.com/ripu2" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </p>
