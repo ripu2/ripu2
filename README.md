@@ -35,6 +35,7 @@
 <h3 align="center">Frameworks & Libraries</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" alt="React Native" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Node.js" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" alt="Express.js" width="40" height="40"/>
   <img src="https://angular.io/assets/images/logos/angular/angular.png" alt="Angular" width="40" height="40"/>
@@ -53,10 +54,10 @@
   <img src="https://cdn.worldvectorlogo.com/logos/aws-logo.svg" alt="AWS" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/mysql.svg" alt="SQL" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/elastic.svg" alt="Elasticsearch" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/elastic.svg" alt="Elasticsearch" width="60" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/neo4j.svg" alt="Neo4j" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/twilio.svg" alt="Twilio" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="GitHub" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/github-icon.svg" alt="GitHub" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" width="40" height="40"/>
 </p>
 
