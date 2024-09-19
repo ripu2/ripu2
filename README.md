@@ -35,10 +35,10 @@
 <!-- Frameworks Section -->
 <h3 align="center">Frameworks & Libraries</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" width="40" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/react-1" alt="GitHub" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" alt="React Native" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Node.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" alt="Express.js" width="40" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/nodejs.svg" alt="GitHub" width="40" height="40"/>
+ <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" alt="Express.js" width="40" height="40"/>
   <img src="https://angular.io/assets/images/logos/angular/angular.png" alt="Angular" width="40" height="40"/>
   <img src="https://miro.medium.com/max/800/1*Pk2mZo1cBqfVqQi-mtAkuA.png" alt="Vue.js" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/graphql-logo-2.svg" alt="GraphQL" width="40" height="40"/>
@@ -52,7 +52,7 @@
 <p align="center">
   <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="Docker" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" alt="Firebase" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/aws-logo.svg" alt="AWS" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" alt="AWS" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/mysql-3.svg" alt="SQL" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="PostgreSQL" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/elasticsearch.svg" alt="Elasticsearch" width="60" height="40"/>
@@ -63,6 +63,9 @@
     <img src="https://cdn.worldvectorlogo.com/logos/prisma-2.svg" alt="GitHub" width="40" height="40"/>
     <img src="https://cdn.worldvectorlogo.com/logos/elastic-kibana.svg" alt="GitHub" width="40" height="40"/>
     <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" alt="GitHub" width="40" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/new-relic-3.svg" alt="GitHub" width="40" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/elastic-logstash.svg" alt="GitHub" width="40" height="40"/>
+      <img src="https://cdn.worldvectorlogo.com/logos/google-maps-logo-2020.svg" alt="GitHub" width="40" height="40"/>
 </p>
 
 ---
