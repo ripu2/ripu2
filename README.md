@@ -60,6 +60,9 @@
   <img src="https://cdn.worldvectorlogo.com/logos/twilio.svg" alt="Twilio" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/github-icon-2.svg" alt="GitHub" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" width="40" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/prisma-2.svg" alt="GitHub" width="40" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/elastic-kibana.svg" alt="GitHub" width="40" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" alt="GitHub" width="40" height="40"/>
 </p>
 
 ---
