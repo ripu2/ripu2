@@ -37,7 +37,7 @@
 <p align="center">
     <img src="https://cdn.worldvectorlogo.com/logos/react-1.svg" alt="GitHub" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" alt="React Native" width="40" height="40"/>
-    <img src="https://cdn.worldvectorlogo.com/logos/nodejs.svg" alt="GitHub" width="40" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/nodejs.svg" alt="GitHub" width="40" height="40" marginTop="10"/>
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" alt="Express.js" width="40" height="40"/>
   <img src="https://angular.io/assets/images/logos/angular/angular.png" alt="Angular" width="40" height="40"/>
   <img src="https://miro.medium.com/max/800/1*Pk2mZo1cBqfVqQi-mtAkuA.png" alt="Vue.js" width="40" height="40"/>
