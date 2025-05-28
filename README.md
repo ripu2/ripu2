@@ -44,10 +44,9 @@
   <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="Next.js" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" alt="Redux" width="40" height="40"/>
   <img src="https://avatars.githubusercontent.com/u/40409100?s=200&v=4" alt="Cube.js" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a0/Svelte_Logo.svg" alt="Svelte" width="40" height="40"/>
+  <img src="https://avatars.githubusercontent.com/u/23617963?s=48&v=4" alt="Svelte" width="40" height="40"/>
 </p>
 
-<!-- Add Azure to the tools section -->
 <h3 align="center">Tools & Platforms</h3>
 <p align="center">
   <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="Docker" width="40" height="40"/>
@@ -66,7 +65,7 @@
   <img src="https://cdn.worldvectorlogo.com/logos/new-relic-3.svg" alt="New Relic" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/elastic-logstash.svg" alt="Logstash" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/google-maps-logo-2020.svg" alt="Google Maps" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Microsoft_Azure_Logo.svg" alt="Azure" width="40" height="40"/>
+  <img src="https://avatars.githubusercontent.com/u/6844498?s=200&v=4" alt="Azure" width="40" height="40"/>
 </p>
 
 
