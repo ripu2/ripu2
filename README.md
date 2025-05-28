@@ -32,22 +32,22 @@
 <img src="https://cdn.worldvectorlogo.com/logos/solidity.svg" alt="Go" width="40" height="40"/>
 </p>
 
-<!-- Frameworks Section -->
 <h3 align="center">Frameworks & Libraries</h3>
 <p align="center">
-    <img src="https://cdn.worldvectorlogo.com/logos/react-1.svg" alt="GitHub" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/react-1.svg" alt="GitHub" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" alt="React Native" width="40" height="40"/>
-    <img src="https://cdn.worldvectorlogo.com/logos/nodejs.svg" alt="GitHub" width="40" height="40" marginTop="10"/>
- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" alt="Express.js" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/nodejs.svg" alt="Node.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" alt="Express.js" width="40" height="40"/>
   <img src="https://angular.io/assets/images/logos/angular/angular.png" alt="Angular" width="40" height="40"/>
   <img src="https://miro.medium.com/max/800/1*Pk2mZo1cBqfVqQi-mtAkuA.png" alt="Vue.js" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/graphql-logo-2.svg" alt="GraphQL" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="Next.js" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" alt="Redux" width="40" height="40"/>
   <img src="https://avatars.githubusercontent.com/u/40409100?s=200&v=4" alt="Cube.js" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a0/Svelte_Logo.svg" alt="Svelte" width="40" height="40"/>
 </p>
 
-<!-- Tools Section -->
+<!-- Add Azure to the tools section -->
 <h3 align="center">Tools & Platforms</h3>
 <p align="center">
   <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="Docker" width="40" height="40"/>
@@ -60,13 +60,15 @@
   <img src="https://cdn.worldvectorlogo.com/logos/twilio.svg" alt="Twilio" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/github-icon-2.svg" alt="GitHub" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" width="40" height="40"/>
-    <img src="https://cdn.worldvectorlogo.com/logos/prisma-2.svg" alt="GitHub" width="40" height="40"/>
-    <img src="https://cdn.worldvectorlogo.com/logos/elastic-kibana.svg" alt="GitHub" width="40" height="40"/>
-    <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" alt="GitHub" width="40" height="40"/>
-    <img src="https://cdn.worldvectorlogo.com/logos/new-relic-3.svg" alt="GitHub" width="40" height="40"/>
-    <img src="https://cdn.worldvectorlogo.com/logos/elastic-logstash.svg" alt="GitHub" width="40" height="40"/>
-      <img src="https://cdn.worldvectorlogo.com/logos/google-maps-logo-2020.svg" alt="GitHub" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/prisma-2.svg" alt="Prisma" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/elastic-kibana.svg" alt="Kibana" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" alt="Jira" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/new-relic-3.svg" alt="New Relic" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/elastic-logstash.svg" alt="Logstash" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/google-maps-logo-2020.svg" alt="Google Maps" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Microsoft_Azure_Logo.svg" alt="Azure" width="40" height="40"/>
 </p>
+
 
 ---
 
