@@ -74,7 +74,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ripu2&layout=compact&theme=tokyonight&hide=html,css,jupyter%20notebook,python,scss,solidity,Dockerfile,Shell" width="48%" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ripu2&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=ripu2&theme=tokyonight" />
 </p>
 
 ---
