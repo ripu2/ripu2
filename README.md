@@ -18,26 +18,23 @@
 ---
 
 <!-- Technologies & Tools -->
-<h2 align="center">🛠 Tech Stack & Tools</h2>
+<h2 align="center">🛠️ Tech Stack & Tools</h2>
 
-<!-- Languages Section -->
 <h3 align="center">Languages</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="TypeScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" alt="TypeScript" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/java.svg" alt="Java" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C++" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/go-logo-1.svg" alt="Go" width="40" height="40"/>
-<img src="https://cdn.worldvectorlogo.com/logos/solidity.svg" alt="Go" width="40" height="40"/>
 </p>
 
 <h3 align="center">Frameworks & Libraries</h3>
 <p align="center">
-  <img src="https://cdn.worldvectorlogo.com/logos/react-1.svg" alt="GitHub" width="40" height="40"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/react-1.svg" alt="React" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" alt="React Native" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/nodejs.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" alt="Express.js" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/express/express.png" alt="Express.js" width="40" height="40"/>
   <img src="https://angular.io/assets/images/logos/angular/angular.png" alt="Angular" width="40" height="40"/>
   <img src="https://miro.medium.com/max/800/1*Pk2mZo1cBqfVqQi-mtAkuA.png" alt="Vue.js" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/graphql-logo-2.svg" alt="GraphQL" width="40" height="40"/>
@@ -58,7 +55,7 @@
   <img src="https://cdn.worldvectorlogo.com/logos/neo4j.svg" alt="Neo4j" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/twilio.svg" alt="Twilio" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/github-icon-2.svg" alt="GitHub" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" alt="Git" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/prisma-2.svg" alt="Prisma" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/elastic-kibana.svg" alt="Kibana" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" alt="Jira" width="40" height="40"/>
@@ -68,22 +65,22 @@
   <img src="https://avatars.githubusercontent.com/u/6844498?s=200&v=4" alt="Azure" width="40" height="40"/>
 </p>
 
-
 ---
 
 <!-- GitHub Stats -->
 <h2 align="center">📊 GitHub Stats</h2>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ripu2&show_icons=true&theme=radical&hide=issues&count_private=true" alt="ripu2's GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ripu2&layout=compact&theme=radical&hide=html,css,jupyter%20notebook,javascript,python,scss,solidity,Dockerfile,Shell" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ripu2&show_icons=true&theme=tokyonight&hide=issues&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ripu2&layout=compact&theme=tokyonight&hide=html,css,jupyter%20notebook,python,scss,solidity,Dockerfile,Shell" width="48%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ripu2&theme=tokyonight" />
 </p>
 
 ---
 
 <!-- Connect with Me -->
-<h2 align="center">📫 Connect with Me</h2>
-
+<h2 align="center">📢 Connect with Me</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/ripu-daman-88a609159/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -95,3 +92,4 @@
     <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
+
