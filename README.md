@@ -76,7 +76,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ripu2&show_icons=true&theme=radical&hide=issues&count_private=true" alt="ripu2's GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ripu2&layout=compact&theme=radical&hide=html,css,jupyter%20notebook,javascript" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ripu2&layout=compact&theme=radical&hide=html,css,jupyter%20notebook,javascript,python,scss,solidity" alt="Top Languages"/>
 </p>
 
 ---
